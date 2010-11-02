@@ -3,3 +3,5 @@ Author: http://www.vim.org/account/profile.php?user_id=1171
 Maintainer: Gavin Gilmour
 
 * Added some extra keywords
+* Added :FixSQLCase command
+* Do substitution only once over a range
